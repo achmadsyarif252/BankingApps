@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Banking Apps</title>
-</head>
 <body>
     <h1>Banking Apps</h1>
     <p>Minimalist banking apps design.</p>
